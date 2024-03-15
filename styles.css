@@ -1,0 +1,16 @@
+#js-container {
+  /* background-color: green; */
+  font-size: 40px;
+}
+
+#interaction {
+  background-color: aquamarine;
+}
+
+#img1 {
+  display: block;
+}
+
+#img2 {
+  display: none;
+}
